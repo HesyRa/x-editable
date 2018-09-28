@@ -1,10 +1,12 @@
 function getFiles() {
+
     //directories  
     var
     lib = 'src/',
     forms = lib+'editable-form/',
     inputs = lib+'inputs/',
-    containers = lib+'containers/';  
+    containers = lib+'containers/';
+
 
     //config for different cores of lib 
     var config = {
